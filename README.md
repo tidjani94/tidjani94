@@ -1,40 +1,46 @@
 # Ahmed Tidjani Meraghni
 
-### Full-Stack Web & Mobile Developer
+### Full-Stack Web & Mobile Developer | PHP & Laravel Specialist
 
-I design and build practical digital products across the web and mobile ecosystem—from polished user interfaces and browser extensions to robust APIs, background workers, and production-ready integrations.
+I’m a full-stack web and mobile developer with professional experience since 2016. I build and maintain reliable applications, APIs, content platforms, and mobile experiences, with a strong focus on PHP and the Laravel ecosystem.
 
-My main focus is full-stack web development and mobile development, with an interest in turning real-world problems into simple, useful experiences.
+I currently work with the [Coodiv](https://coodiv.net) team, contributing to practical digital products and long-term software solutions.
 
-## What I work with
+## Technologies I work with
 
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Fastify, REST APIs
-- **Data & infrastructure:** PostgreSQL, Redis, BullMQ, Docker
-- **Web & integrations:** Chrome Extensions, GraphQL interception, Telegram Bot API
-- **Payments:** Chargily Pay — CIB and EDAHABIA
-- **Mobile:** Building cross-platform mobile experiences
-- **Product thinking:** Bilingual interfaces, notifications, analytics, and business workflows
+### Backend
 
-## Featured project
+`PHP` · `Laravel` · `Symfony` · `Node.js` · `REST APIs`
 
-### [KnissRadar](https://github.com/tidjani94/KnissRadar)
+### Frontend
 
-A price-tracking platform for [Ouedkniss](https://ouedkniss.com) that helps people follow listing prices, receive price-drop alerts, and compare similar deals.
+`JavaScript` · `TypeScript` · `React` · `Vue.js` · `Tailwind CSS` · `Bootstrap`
 
-The project brings together a React and TypeScript Chrome extension, a Fastify backend, PostgreSQL, Redis and BullMQ workers, Telegram notifications, Chargily payments, and a bilingual French/Arabic experience.
+### Mobile & CMS
 
-## Currently interested in
+`Flutter` · `Android` · `WordPress`
 
-- Building reliable full-stack products from idea to deployment
-- Creating useful web extensions and automation tools
-- Developing mobile applications with consistent, intuitive UX
-- Designing scalable APIs and background processing systems
+### Databases & infrastructure
 
-## Let’s connect
+`MySQL` · `PostgreSQL` · `MongoDB` · `Docker` · `AWS` · `Nginx` · `Apache` · `Linux`
 
-If you are working on a web, mobile, or product idea, feel free to connect with me here on GitHub.
+### Tools & workflow
+
+`Git` · `GitHub` · `GitLab` · `Jira` · `Notion`
+
+## Professional focus
+
+- Full-stack web application development
+- PHP and Laravel application architecture
+- API design and backend integrations
+- Mobile application development
+- Scalable, maintainable, and user-focused software
+
+## Connect
+
+- Organization: [Coodiv](https://coodiv.net)
+- GitHub: [@tidjani94](https://github.com/tidjani94)
 
 <p align="center">
-  <i>Building useful products, one commit at a time.</i>
+  <i>Building reliable software since 2016.</i>
 </p>
