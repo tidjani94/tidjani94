@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="44" viewBox="0 0 252 44" role="img" aria-labelledby="title">
+  <title id="title">Chat with me on WhatsApp</title>
+  <rect x="0.5" y="0.5" width="251" height="43" rx="9" fill="#087F78" stroke="#076E68"/>
+  <path d="M34 21a10 10 0 0 1-15 8.7L13 31l1.4-5.8A10 10 0 1 1 34 21Z" fill="none" stroke="#FFFFFF" stroke-width="1.6"/>
+  <path d="M19 16c-1 0-1.5 1-1.5 2.1 0 3.5 4.7 7.5 8 7.5 1.2 0 2.1-.8 2.3-1.8l-3-1.4-1.2 1.1a11 11 0 0 1-3.8-3.7l1-1.2Z" fill="#FFFFFF"/>
+  <text x="45" y="27" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="14" fill="#FFFFFF">Chat with me on WhatsApp</text>
+</svg>
