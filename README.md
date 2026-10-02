@@ -5,7 +5,7 @@
 <h3 align="center">Full-stack web &amp; mobile developer · PHP &amp; Laravel specialist</h3>
 
 <p align="center">
-  <a href="https://wa.me/213671584352"><img src="assets/whatsapp.svg" alt="Chat with me on WhatsApp" width="252" height="44"></a>
+  <a href="https://wa.me/213671584352"><img src="assets/whatsapp.svg?v=2" alt="Chat with me on WhatsApp" width="252" height="44"></a>
 </p>
 
 I build and maintain web applications, APIs, content platforms, and mobile experiences, with professional experience since **2016**. My core focus is **PHP and Laravel**: clear architecture, dependable integrations, and software that stays maintainable as it grows.
